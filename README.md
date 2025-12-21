@@ -9,9 +9,9 @@
 
 # Der ESPutzer ("ESPCleaner")
 
-Ein kleines Programm für alle die **ESP8266** Microcontroller programmieren. Das Tool räumt auf, wischt den Staub weg, fegt den Boden, wischt feucht auf und desinfiziert die Bude. Sogar das EEPROM wird auf den Müll geworfen. Der ESP ist anschließend wie neu geboren. Und ihr wisst genau über die inneren Werte bescheid.
+Ein kleiner Arduino Sketch für alle die **ESP8266** Microcontroller programmieren. Das Tool räumt auf, wischt den Staub weg, fegt den Boden, wischt feucht auf und desinfiziert die Bude. Sogar das EEPROM wird auf den Müll geworfen. Der ESP ist anschließend wie neu geboren. Und ihr wisst genau über die inneren Werte bescheid.
 
-Einfach auf den ESP flashen und beim Start den seriellen Monitor einschalten.
+Einfach vermittels der Arduino IDE auf den ESP flashen und beim Start den seriellen Monitor einschalten.
 
 Viel Spaß damit!
 
